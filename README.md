@@ -7,3 +7,4 @@ Principal component analysis was used to reduce the dimensionality of the data. 
 The final model was a boostrap aggregating or bagging method that is an ensemble of different decision trees. It achieved **perfect accuracy** even after using KFold to decrease overfitting.
 
 Such softwares have great applications in telehealth and remote diagnosis in the context of the COVID-19 pandemic.
+*Update* - This Project won 2ND PLACE at the Alameda County Science and Engineering Fair!
